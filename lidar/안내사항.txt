@@ -1,0 +1,8 @@
+1. 
+실행은 
+ros2 launch lidar lidar_straight.launch.py
+ros2 launch lidar lidar_curved.launch.py
+launch와 동시에 파라미터 값들을 불러오고 rviz2가 실행되므로 run을 통해 실행 시 파라미터 값을 가져오지 않아 노드 정상 작동 X
+
+
+
